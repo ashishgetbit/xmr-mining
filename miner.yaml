@@ -30,7 +30,7 @@ Parameters:
       or a list of specific instances e.g. "p3.2xlarge,p3.8xlarge". The most cost effective combination
       of available instances will be used first.
     Type: String
-    Default: "g4ad.xlarge"
+    Default: "g4dn.xlarge"
 
   Hashrate:
     Description: |
