@@ -548,11 +548,7 @@ Resources:
                         "platform": "AMD",
                         "adl": true
                     },
-                    "cuda": {
-                        "enabled": false,
-                        "loader": null,
-                        "nvml": true
-                    },
+                    "cuda": true,
                     "log-file": null,
                     "donate-level": 1,
                     "donate-over-proxy": 1,
@@ -742,11 +738,7 @@ Resources:
                         "platform": "AMD",
                         "adl": true
                     },
-                    "cuda": {
-                        "enabled": false,
-                        "loader": null,
-                        "nvml": true
-                    },
+                    "cuda": true,
                     "log-file": null,
                     "donate-level": 1,
                     "donate-over-proxy": 1,
@@ -941,11 +933,7 @@ Resources:
                         "platform": "AMD",
                         "adl": true
                     },
-                    "cuda": {
-                        "enabled": false,
-                        "loader": null,
-                        "nvml": true
-                    },
+                    "cuda": true,
                     "log-file": null,
                     "donate-level": 1,
                     "donate-over-proxy": 1,
